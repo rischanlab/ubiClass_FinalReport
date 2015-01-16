@@ -19,6 +19,8 @@ If you need some reference just follow this link http://rischanlab.github.io/
 
 #Content
 
+*update : final presentation can be seen in scribd https://www.scribd.com/doc/252775141/Gait-for-User-Identification 
+
 In this project, I implement gait pattern for user identification. I use only walking data and based on those data, I extracted features. 
 
 Before extracting features, I tried to segmenting the gait signals. I defined the True peaks from the gait signals (only using Z value | you can see our presentation for the details).  After segmenting the gait signals, I extracted the features from each gait cycles. 
