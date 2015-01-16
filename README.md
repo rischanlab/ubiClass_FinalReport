@@ -8,8 +8,10 @@ and etc.
 
 The aim of this class is to implement previouse works from our lab with different dataset. 
 
-And This project is my final report for this class
+This project is my final report for this class.
+
 The content of this project can be seen directly in this project and you can access the source code in directory source code. 
+
 All of work in this project coded by using R language. 
 
 If you need some reference just follow this link http://rischanlab.github.io/
